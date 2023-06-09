@@ -1,0 +1,11 @@
+{
+  "name": "compute-and-storage",
+  "version": "1.0.0",
+  "description": "A gRPC server that can perform chained procedural calls which in turn executes operation on Amazon S3 bucket.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deep Lad",
+  "license": "ISC"
+}
